@@ -8,12 +8,14 @@ This project is divided into the following sections
 -Creation of the Contacts Data Frame
 
 # Skills
-Throughout this repository skills in python, pandas, and regex are demonstrated. Follow along and see the data transform into something meaning ful. 
+Throughout this repository skills in python, pandas, and regex are demonstrated. Follow along and see the data transform into something meaningful. 
 
 
 
 
 
 ![alt text](campaign_DataFrame-1.png)
+
 ![alt text](category_DataFrame.png)
+
 ![alt text](contact_DataFrame_final.png)
